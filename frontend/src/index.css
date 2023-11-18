@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.done {
+  text-decoration: line-through;
+  font-weight: 600;
+  text-align: center;
+  color: red;
+}
